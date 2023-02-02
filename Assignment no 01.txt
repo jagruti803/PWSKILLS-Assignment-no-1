@@ -1,0 +1,31 @@
+1)Guido van Rossum developed python programming language
+2)Object-oriented programming and structured programming python support?
+3)Yes, Python is a case-sensitive language.
+4).py is correct extensiom.
+5)Python is an interpreted language.
+6)Braces {} are used to define a block of code.
+7)Hash character(#) is used to comment the line in the Python program.
+8)Using sys. version method.
+ Using python_version() function.
+ Using Python -V command.
+9)python support anonymous function at runtime called lambda.
+10)preferred installer program.
+11)compile(),complex(),delattr(),dict(), float(),int() are example of built in function in python.
+12)An identifier can have a maximum length of 79 characters in Python.
+13)Presence of third-party modules 
+   Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics, etc.) 
+   Open source and large active community base 
+   Versatile, Easy to read, learn and write
+   User-friendly data structures 
+   High-level language 
+   Dynamically typed language(No need to mention data type based on the value assigned, it takes data type) 
+   Object-Oriented and Procedural  Programming language
+   Portable and Interactive
+   Ideal for prototypes – provide more functionality with less coding.
+14)Memory management in Python involves a private heap containing all Python objects and data structures.
+15)Right-clicking This PC and going to Properties.
+   Clicking on the Advanced system settings in the menu on the left.
+   Clicking on the Environment Variables button o​n the bottom right.
+   In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+   Clicking on New and entering Python’s install directory.
+16)indentation in Python is very important.
